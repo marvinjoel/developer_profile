@@ -1,2 +1,5 @@
 .idea/
 .env
+app/models/db/__pycache__/
+app/models/__pycache__/
+models/db/__pycache__/
