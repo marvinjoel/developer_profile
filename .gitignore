@@ -3,3 +3,5 @@
 app/models/db/__pycache__/
 app/models/__pycache__/
 models/db/__pycache__/
+app/alembic/__pycache__/
+app/alembic/versions/__pycache__/
