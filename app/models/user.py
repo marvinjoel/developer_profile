@@ -1,6 +1,7 @@
 from models.db.db_setup import Base
 from sqlalchemy.orm import relationship, Mapped, mapped_column
 from sqlalchemy import (Integer, String, Boolean)
+from models.profile import Profile, Skill
 
 
 class User(Base):
